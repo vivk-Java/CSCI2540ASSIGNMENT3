@@ -1,0 +1,9 @@
+123,qweqwe,qweqwe,qweqwe
+100126,John Smith,junior,CS
+111111,qwe,qwe,qwe
+145228,James Park,senior,Engineering
+166908,Adam Wong,freshman,CS
+222222,ert,ert,ert
+265812,Emily Washington,freshman,Math
+366010,Mark Baker,junior,Math
+526045,Sandra King,senior,CS
